@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "username": "adam",
+      "email": "abc@1234",
+      "password": "1234",
+      "id": "f552"
+    },
+    {
+      "id": "777a",
+      "username": "nash",
+      "email": "me@psr.edu.in",
+      "password": "1234"
+    },
+    {
+      "id": "b77f",
+      "username": "nash",
+      "email": "me@psr.edu.in",
+      "password": "1234"
+    },
+    {
+      "id": "50a6",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "810f",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "aa1a",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "814c",
+      "username": "admin",
+      "email": "admin@1234",
+      "password": "1234"
+    },
+    {
+      "id": "de0d",
+      "username": "nash",
+      "email": "nash@1234",
+      "password": "1234"
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "name": "Naresh",
+      "age": "c++",
+      "fees": "2500"
+    },
+    {
+      "id": "2",
+      "name": "MOHAN",
+      "age": "C",
+      "fees": "1200"
+    }
+  ]
+}
